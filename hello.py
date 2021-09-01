@@ -6,6 +6,7 @@ time.sleep(1)
 
 for i in range(1 ,10):
     print(i)
+    print("박도현")
 
 # 박도현
 # 파이썬
